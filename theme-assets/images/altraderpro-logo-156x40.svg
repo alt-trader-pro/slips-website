@@ -1,0 +1,38 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 27.01">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        font-size: 22px;
+        font-family: Futura-Bold, Futura;
+        font-weight: 700;
+      }
+
+      .cls-1 {
+        fill: #e5b115;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-5 {
+        fill: #bd1e51;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <title>altraderpro-logo-156x40</title>
+  <text class="cls-1" transform="translate(6.11 19.29)"><tspan class="cls-2">A</tspan><tspan x="17.89" y="0">lt</tspan><tspan class="cls-3" x="32.8" y="0">T</tspan><tspan class="cls-4" x="44.09" y="0">r</tspan><tspan x="54.47" y="0">ader </tspan></text>
+  <text class="cls-5" transform="translate(116.65 19.44)">P<tspan class="cls-6" x="14.92" y="0">r</tspan><tspan x="25.26" y="0">o</tspan></text>
+</svg>
